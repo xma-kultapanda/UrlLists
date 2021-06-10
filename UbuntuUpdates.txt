@@ -1,4 +1,8 @@
 # Update-URLs for apt manager
 
+# Default Ubuntu repositories
 debian.charite.de
 archive.ubuntu.com
+
+# PowerShell core and other Microsoft packages
+packages.microsoft.com
