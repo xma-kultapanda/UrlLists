@@ -2,6 +2,7 @@
 
 # Source: https://raw.githubusercontent.com/CrazyOldWizard/WindowsUpdateServerDomainList/master/WindowsUpdateServerList.txt
 
+# Explicit domains
 windowsupdate.microsoft.com
 update.microsoft.com
 windowsupdate.com
@@ -12,3 +13,24 @@ ntservicepack.microsoft.com
 ctldl.windowsupdate.com
 sls.update.microsoft.com
 slscr.update.microsoft.com
+wustat.windows.com
+ntservicepack.microsoft.com
+go.microsoft.com
+
+# Subdomain matches
+.windowsupdate.microsoft.com
+.update.microsoft.com
+.windowsupdate.com
+.download.windowsupdate.com
+
+# Wildcard matches
+*.windowsupdate.microsoft.com
+*.update.microsoft.com
+*.windowsupdate.com
+*.download.windowsupdate.com
+
+# Regex matches
+^(.+\.)?windowsupdate\.microsoft\.com$
+^(.+\.)?update\.microsoft\.com$
+^(.+\.)?windowsupdate\.com$
+^(.+\.)?download\.windowsupdate\.com$
