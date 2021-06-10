@@ -1,0 +1,4 @@
+# Update-URLs for apt manager
+
+debian.charite.de
+archive.ubuntu.com
