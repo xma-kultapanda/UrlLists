@@ -1,15 +1,17 @@
 # =======================================================
 # PowerShell Core 2021.5.1
-# TimeStamp: Freitag, 11. Jun 2021 @ 04:23:38 
+# TimeStamp: Freitag, 11. Jun 2021 @ 04:41:20 
 # Processed URIs:
 #   - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
 #   - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all.easylist
 #   - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
 #   - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update_v6.txt
 # Processed Domain Matches:
+#   - (?i)^dl\.delivery\.mp\.microsoft\.com$
 #   - (?i)^download\.microsoft\.com$
 #   - (?i)^download\.windowsupdate\.com$
 #   - (?i)^ntservicepack\.microsoft\.com$
+#   - (?i)^go\.microsoft\.com$
 #   - (?i)^windowsupdate\.microsoft\.com$
 #   - (?i)^wustat\.windows\.com$
 #   - (?i)^.+\.download\.windowsupdate\.com$
@@ -17,19 +19,20 @@
 #   - (?i)^.+\.windowsupdate\.com$
 #   - (?i)^.+\.windowsupdate\.microsoft\.com$
 #   - (?i)^.+\.ws\.microsoft\.com$
+#   - (?i)^.+\.download\.windowsupdate\.com$
 # =======================================================
 
 # List: https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
-#  - Matches: 2
+#  - Matches: 3
 
 # List: https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all.easylist
-#  - Matches: 2
+#  - Matches: 3
 
 # List: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
-#  - Matches: 188
+#  - Matches: 190
 
 # List: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update_v6.txt
-#  - Matches: 188
+#  - Matches: 190
 
 00001b-1.l.windowsupdate.com
 000043-1.l.windowsupdate.com
@@ -202,6 +205,7 @@ bg4.v4.emdl.ws.microsoft.com
 bg5.v4.a.dl.ws.microsoft.com
 bg5.v4.emdl.ws.microsoft.com
 ctldl.windowsupdate.com
+dl.delivery.mp.microsoft.com
 download.microsoft.com
 download.windowsupdate.com
 ds.download.windowsupdate.com
@@ -211,6 +215,7 @@ fe2.ws.microsoft.com
 fe2cr.update.microsoft.com
 fg.ds.b1.download.windowsupdate.com
 fg.v4.download.windowsupdate.com
+go.microsoft.com
 sls.update.microsoft.com
 slscr.update.microsoft.com
 statsfe1.ws.microsoft.com
@@ -221,7 +226,7 @@ windowsupdate.microsoft.com
 www.download.windowsupdate.com
 
 # =======================================================
-# Host addresses found: 188
-# TimeStamp: Freitag, 11. Jun 2021 @ 04:23:40 
+# Host addresses found: 190
+# TimeStamp: Freitag, 11. Jun 2021 @ 04:41:23 
 # =======================================================
 
