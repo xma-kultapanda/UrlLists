@@ -1,6 +1,6 @@
 # =======================================================
 # PowerShell Core 2021.5.1
-# TimeStamp: Freitag, 11. Jun 2021 @ 04:41:26 
+# TimeStamp: Freitag, 11. Jun 2021 @ 04:56:07 
 # Processed URIs:
 #   - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
 #   - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all.easylist
@@ -10,11 +10,15 @@
 #   - (?i)^dl\.delivery\.mp\.microsoft\.com$
 #   - (?i)^download\.microsoft\.com$
 #   - (?i)^download\.windowsupdate\.com$
-#   - (?i)^ntservicepack\.microsoft\.com$
+#   - (?i)^emdl\.ws\.microsoft\.com$
 #   - (?i)^go\.microsoft\.com$
+#   - (?i)^ntservicepack\.microsoft\.com$
+#   - (?i)^tsfe\.trafficshaping\.dsp\.mp\.microsoft\.com$
 #   - (?i)^windowsupdate\.microsoft\.com$
 #   - (?i)^wustat\.windows\.com$
+#   - (?i)^.+\.delivery\.mp\.microsoft\.com$
 #   - (?i)^.+\.download\.windowsupdate\.com$
+#   - (?i)^.+\.prod\.do\.dsp\.mp\.microsoft\.com$
 #   - (?i)^.+\.update\.microsoft\.com$
 #   - (?i)^.+\.windowsupdate\.com$
 #   - (?i)^.+\.windowsupdate\.microsoft\.com$
@@ -29,10 +33,10 @@
 #  - Matches: 3
 
 # List: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
-#  - Matches: 190
+#  - Matches: 224
 
 # List: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update_v6.txt
-#  - Matches: 190
+#  - Matches: 224
 
 # Resolving domain: 00001b-1.l.windowsupdate.com
 #  - IPv4 addresses: 0
@@ -658,20 +662,132 @@
 #  - IPv4 addresses: 0
 #  - IPv6 addresses: 0
 
+# Resolving domain: array508.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array509.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array510.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array511.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array512.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array513.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array514.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array515.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array601.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array602.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array603.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array604.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array605.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array606.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array607.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array608.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array609.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array610.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array611.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array612.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array613.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array614.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array615.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array616.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array810.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array811.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array813.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: array815.prod.do.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
 # Resolving domain: au.download.windowsupdate.com
 #  - IPv4 addresses: 10
-#  - IPv6 addresses: 9
+#  - IPv6 addresses: 15
 
 # Resolving domain: au.v4.download.windowsupdate.com
-#  - IPv4 addresses: 1
-#  - IPv6 addresses: 10
+#  - IPv4 addresses: 16
+#  - IPv6 addresses: 20
 
 # Resolving domain: bg.v4.a.dl.ws.microsoft.com
-#  - IPv4 addresses: 5
-#  - IPv6 addresses: 2
+#  - IPv4 addresses: 4
+#  - IPv6 addresses: 4
 
 # Resolving domain: bg.v4.emdl.ws.microsoft.com
-#  - IPv4 addresses: 6
+#  - IPv4 addresses: 8
 #  - IPv6 addresses: 0
 
 # Resolving domain: bg1.v4.a.dl.ws.microsoft.com
@@ -679,15 +795,15 @@
 #  - IPv6 addresses: 4
 
 # Resolving domain: bg1.v4.emdl.ws.microsoft.com
-#  - IPv4 addresses: 6
+#  - IPv4 addresses: 8
 #  - IPv6 addresses: 0
 
 # Resolving domain: bg2.v4.a.dl.ws.microsoft.com
-#  - IPv4 addresses: 4
-#  - IPv6 addresses: 6
+#  - IPv4 addresses: 8
+#  - IPv6 addresses: 4
 
 # Resolving domain: bg2.v4.emdl.ws.microsoft.com
-#  - IPv4 addresses: 8
+#  - IPv4 addresses: 6
 #  - IPv6 addresses: 0
 
 # Resolving domain: bg3.v4.a.dl.ws.microsoft.com
@@ -695,44 +811,48 @@
 #  - IPv6 addresses: 4
 
 # Resolving domain: bg3.v4.emdl.ws.microsoft.com
-#  - IPv4 addresses: 8
+#  - IPv4 addresses: 6
 #  - IPv6 addresses: 0
 
 # Resolving domain: bg4.v4.a.dl.ws.microsoft.com
-#  - IPv4 addresses: 4
-#  - IPv6 addresses: 6
+#  - IPv4 addresses: 6
+#  - IPv6 addresses: 4
 
 # Resolving domain: bg4.v4.emdl.ws.microsoft.com
 #  - IPv4 addresses: 6
 #  - IPv6 addresses: 0
 
 # Resolving domain: bg5.v4.a.dl.ws.microsoft.com
-#  - IPv4 addresses: 5
-#  - IPv6 addresses: 2
+#  - IPv4 addresses: 6
+#  - IPv6 addresses: 4
 
 # Resolving domain: bg5.v4.emdl.ws.microsoft.com
 #  - IPv4 addresses: 6
 #  - IPv6 addresses: 0
 
 # Resolving domain: ctldl.windowsupdate.com
-#  - IPv4 addresses: 13
+#  - IPv4 addresses: 10
 #  - IPv6 addresses: 10
 
+# Resolving domain: db5-dspcdn.tlu.dl.delivery.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
 # Resolving domain: dl.delivery.mp.microsoft.com
-#  - IPv4 addresses: 11
-#  - IPv6 addresses: 13
+#  - IPv4 addresses: 10
+#  - IPv6 addresses: 12
 
 # Resolving domain: download.microsoft.com
 #  - IPv4 addresses: 3
 #  - IPv6 addresses: 6
 
 # Resolving domain: download.windowsupdate.com
-#  - IPv4 addresses: 7
-#  - IPv6 addresses: 7
+#  - IPv4 addresses: 5
+#  - IPv6 addresses: 3
 
 # Resolving domain: ds.download.windowsupdate.com
-#  - IPv4 addresses: 6
-#  - IPv6 addresses: 5
+#  - IPv4 addresses: 8
+#  - IPv6 addresses: 7
 
 # Resolving domain: emdl.ws.microsoft.com
 #  - IPv4 addresses: 6
@@ -747,28 +867,40 @@
 #  - IPv6 addresses: 0
 
 # Resolving domain: fe2cr.update.microsoft.com
-#  - IPv4 addresses: 5
-#  - IPv6 addresses: 3
+#  - IPv4 addresses: 7
+#  - IPv6 addresses: 0
+
+# Resolving domain: fe3.delivery.mp.microsoft.com
+#  - IPv4 addresses: 4
+#  - IPv6 addresses: 0
+
+# Resolving domain: fe3cr.delivery.mp.microsoft.com
+#  - IPv4 addresses: 4
+#  - IPv6 addresses: 0
 
 # Resolving domain: fg.ds.b1.download.windowsupdate.com
 #  - IPv4 addresses: 7
-#  - IPv6 addresses: 7
+#  - IPv6 addresses: 6
 
 # Resolving domain: fg.v4.download.windowsupdate.com
-#  - IPv4 addresses: 7
-#  - IPv6 addresses: 14
+#  - IPv4 addresses: 8
+#  - IPv6 addresses: 5
 
 # Resolving domain: go.microsoft.com
 #  - IPv4 addresses: 2
 #  - IPv6 addresses: 6
+
+# Resolving domain: msedge.b.tlu.dl.delivery.mp.microsoft.com
+#  - IPv4 addresses: 5
+#  - IPv6 addresses: 8
 
 # Resolving domain: sls.update.microsoft.com
 #  - IPv4 addresses: 3
 #  - IPv6 addresses: 3
 
 # Resolving domain: slscr.update.microsoft.com
-#  - IPv4 addresses: 2
-#  - IPv6 addresses: 3
+#  - IPv4 addresses: 3
+#  - IPv6 addresses: 2
 
 # Resolving domain: statsfe1.ws.microsoft.com
 #  - IPv4 addresses: 2
@@ -782,204 +914,273 @@
 #  - IPv4 addresses: 2
 #  - IPv6 addresses: 0
 
+# Resolving domain: tlu.dl.delivery.mp.microsoft.com
+#  - IPv4 addresses: 5
+#  - IPv6 addresses: 14
+
+# Resolving domain: tsfe.trafficshaping.dsp.mp.microsoft.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
 # Resolving domain: v4.download.windowsupdate.com
-#  - IPv4 addresses: 14
-#  - IPv6 addresses: 9
+#  - IPv4 addresses: 6
+#  - IPv6 addresses: 12
 
 # Resolving domain: windowsupdate.microsoft.com
 #  - IPv4 addresses: 2
 #  - IPv6 addresses: 0
 
 # Resolving domain: www.download.windowsupdate.com
-#  - IPv4 addresses: 10
-#  - IPv6 addresses: 9
+#  - IPv4 addresses: 11
+#  - IPv6 addresses: 11
 
 # Resolved IPv4 addresses
-8.248.141.254
-8.248.139.254
-8.248.137.254
-8.248.147.254
+52.184.217.37
+51.104.167.186
+51.104.167.48
+51.104.164.114
+51.104.162.168
+51.104.162.50
+20.191.46.211
+52.184.214.139
+8.248.149.254
+52.184.214.123
+52.184.214.53
+52.184.213.187
+52.184.213.21
+52.184.212.181
+52.184.217.56
+51.104.167.245
+51.104.167.255
+20.54.24.69
 8.248.115.254
-23.214.196.178
-23.214.196.216
-93.184.221.240
-205.185.216.10
-205.185.216.42
-13.107.4.50
-198.78.212.126
-23.48.23.37
-23.48.23.28
-8.254.226.125
-4.27.28.126
-2.17.120.26
-2.17.120.128
-23.214.196.74
-23.214.196.96
-2.16.186.59
-8.253.95.120
-2.16.107.8
-2.16.107.96
-2.17.123.208
-2.17.123.67
-2.16.186.27
-2.16.186.8
 67.26.83.254
-8.253.207.121
-8.253.95.249
-67.26.73.254
+8.248.135.254
+67.26.75.254
+52.156.144.83
+52.148.148.114
+20.191.46.109
+52.137.110.235
+20.54.25.4
+20.54.24.246
+20.54.24.231
+20.54.24.169
+20.54.24.148
+20.54.24.79
+20.190.9.86
+4.27.28.126
+2.16.186.27
+93.184.221.240
 8.238.85.126
-8.241.82.126
-8.238.36.254
 8.241.79.254
-2.16.186.33
+8.238.29.126
+8.241.54.126
+8.241.52.254
+8.238.94.254
+8.241.53.254
+23.214.196.216
+8.248.133.254
+8.248.131.254
+8.253.95.121
+8.253.95.249
 2.16.186.25
+2.16.186.33
+8.238.85.254
+8.241.90.254
+13.107.4.50
+23.48.23.28
+23.48.23.37
+2.16.186.73
+2.16.186.59
+23.32.238.98
+23.32.238.162
+23.214.196.178
+23.214.196.96
+2.17.120.128
+2.17.120.26
+2.16.107.96
+2.16.107.89
+8.254.226.125
+198.78.212.126
+23.214.196.74
+8.241.53.126
+2.16.186.8
+40.125.122.151
+2.22.89.129
 23.48.23.23
 23.48.23.47
+67.26.73.254
+8.253.204.121
+8.253.204.249
+205.185.216.10
+52.254.114.64
+205.185.216.42
 67.26.139.254
-8.248.131.254
-8.248.119.254
-2.16.186.73
-2.16.107.89
-2.16.107.32
-23.55.161.142
+8.253.207.121
+8.248.143.254
+198.78.193.126
+2.17.123.67
 23.209.69.176
 2.18.233.19
-8.248.145.254
-8.253.204.121
-2.17.123.89
-2.17.123.50
-23.48.23.7
-23.48.23.21
+23.55.161.142
+52.238.248.1
+20.83.81.160
+13.91.16.64
 2.16.107.82
 2.16.107.50
-52.238.248.1
-20.62.190.184
-52.254.114.64
-13.91.16.64
-20.83.81.160
-52.249.36.200
-40.86.163.64
-52.148.165.156
-52.242.231.35
-52.250.195.200
-8.238.30.254
-2.22.89.129
-23.55.161.162
-23.32.238.178
+23.32.238.161
+40.77.226.181
+23.32.238.153
+23.48.23.7
+2.17.123.50
+2.17.123.89
 23.32.238.201
-104.111.242.51
+23.32.238.178
+23.55.161.162
+23.48.23.21
+8.238.91.126
+2.17.123.208
+52.152.201.108
+23.48.23.5
 23.14.234.231
+104.111.242.51
+67.27.157.126
+152.199.19.161
+52.242.97.97
+20.54.89.15
+20.62.190.184
+52.152.108.96
+52.242.231.33
+52.142.21.140
+52.142.21.137
+20.188.78.185
+40.86.163.64
+2.16.107.112
+2.16.107.8
 20.54.89.106
+8.248.119.254
+52.185.71.28
+52.137.90.34
+117.18.232.240
+20.54.110.119
+23.32.238.219
+52.249.36.200
+23.32.238.235
+23.55.161.140
+51.143.49.66
+52.167.254.228
+52.242.101.226
 52.152.110.14
 40.125.122.176
-52.242.101.226
-52.167.254.228
-51.143.49.66
-8.248.113.254
-8.248.135.254
-8.248.149.254
-67.26.81.254
-8.248.133.254
-52.137.90.34
-52.185.71.28
-8.241.80.126
-8.241.82.254
-152.199.19.161
-8.241.78.254
+23.55.161.160
+8.241.73.254
 
 # Resolved IPv6 addresses
 2001:1900:2338:f00::1fe
-2001:1900:2339:e00::1fe
-2001:1900:233a:e00::1fe
-2001:1900:2322:1c04::1fe
-2001:1900:2322:1e00::1fe
-2a02:26f0:1300::5f64:9f29
-2a02:26f0:1300::5f64:9f12
-2606:2800:147:120f:30c:1ba0:fc6:3000
-2001:4de0:ac10::1:1:19
-2001:1900:2338:e00::1fe
-2001:1900:2322:1f03::1fe
+2001:1900:2322:b00d::1fe
+2001:1900:2322:8f02::1fe
+2001:1900:2322:8f07::1fe
+2001:1900:2322:8f01::1fe
 2001:1900:2322:8f0a::1fe
-2001:1900:2322:8f09::1fe
-2a01:111:2003::50
-2001:1900:2322:b009::1fe
-2001:1900:2322:b003::1fe
+2001:1900:23cb:3::1fe
+2001:1900:23af:2::1fe
+2001:1900:23c4:5::1fe
+2001:1900:23ca:5::1fe
+2001:1900:23cb:5::1fe
+2a02:26f0:c400::17d6:c4d8
+2a02:26f0:c400::17d6:c4b2
+2001:4de0:ac10::1:1:19
+2a02:26f0:6c00::210:ba51
+2a02:26f0:6c00::210:ba38
+2001:1900:2322:8f00::1fe
+2001:1900:2338:e00::1fe
+2001:1900:2322:8f03::1fe
+2001:1900:23c4:3::1fe
+2001:1900:23cc:3::1fe
+2001:1900:23ca:7::1fe
+2001:1900:2339:e00::1fe
+2001:1900:23aa:2001::1fe
 2001:1900:2322:c017::1fe
-2001:1900:2322:b015::1fe
+2001:1900:2322:1b04::1fe
+2a01:111:2003::50
+2001:1900:2339:f00::1fe
+2001:1900:2322:8f05::1fe
+2001:1900:2322:1c04::1fe
+2001:1900:233a:e00::1fe
+2a02:26f0:c400::17d6:c48a
+2a02:26f0:c400::17d6:c470
 2a02:26f0:6c00::210:ba1b
 2a02:26f0:6c00::210:ba0a
-2a02:26f0:64::210:6b08
-2a02:26f0:6c00::210:ba1a
-2a02:26f0:c400::17d6:c470
-2a02:26f0:c400::17d6:c48a
+2001:1900:2322:8f06::1fe
+2001:1900:2322:8f0c::1fe
+2001:1900:2322:b003::1fe
+2001:1900:2322:1e03::1fe
 2606:2800:133:672:1e5f:2264:1854:1189
-2001:1900:23c4:2::1fe
-2001:1900:23af:4::1fe
-2001:1900:23cc:3::1fe
-2001:1900:23cb:5::1fe
-2001:1900:23af:5::1fe
-2a02:26f0:6c00::210:ba51
-2a02:26f0:120::211:7919
-2a02:26f0:c400::17d6:c48b
-2a02:26f0:c400::17d6:c47a
 2001:4de0:ac19::1:b:3b
 2001:4de0:ac19::1:b:1b
+2001:4de0:ac19::1:b:2a
+2001:4de0:ac19::1:b:1a
 2001:4de0:ac19::1:b:3a
 2001:4de0:ac19::1:b:2b
-2001:4de0:ac19::1:b:1a
-2001:4de0:ac19::1:b:2a
-2a02:26f0:64::210:6b20
-2a02:26f0:120::211:7908
-2a02:26f0:6c00::210:ba38
-2a02:26f0:6c00::210:ba19
-2a02:26f0:6c00:2a4::2c1a
-2a02:26f0:120:385::e59
-2a02:26f0:1300:2ae::e59
-2a02:26f0:1300:2bb::e59
+2001:1900:2322:8f09::1fe
+2001:1900:2322:c003::1fe
+2001:1900:2322:8f0d::1fe
+2a02:26f0:120:3af::e59
+2a02:26f0:120:391::e59
+2a02:26f0:c400:388::e59
 2a02:26f0:6c00:289::e59
 2a02:26f0:6c00:2a9::e59
-2001:1900:2322:8f01::1fe
-2001:1900:2322:1b04::1fe
-2a02:26f0:c400::17d6:c490
-2a02:26f0:c400::17d6:c47b
-2a02:26f0:6c00::210:ba21
-2a01:111:f100:3000::a83e:19a0
-2603:1030:805:3::40
-2603:1030:c04:3::111
-2603:1030:b:3::b0
-2603:1030:403:3::60
-2603:1030:20e:3::2a0
+2a02:26f0:64::210:6a68
+2a02:26f0:64::210:6a33
 2a02:26f0:120::211:7932
 2a02:26f0:120::211:792b
-2606:2800:133:206e:1315:22a5:2006:24fd
-2001:1900:233a:f00::1fe
-2a02:26f0:120:3af::e59
-2001:1900:23c4:3::1fe
-2001:1900:2322:8f08::1fe
-2001:1900:2322:1e02::1fe
-2001:1900:2322:8f06::1fe
+2a02:26f0:c400::17d6:c47b
+2a02:26f0:c400::17d6:c490
+2a02:26f0:6c00::210:ba19
+2a02:26f0:6c00::210:ba21
+2603:1030:b:3::b0
+2603:1030:403:3::60
+2603:1030:805:3::40
+2603:1030:c04:3::111
+2603:1030:20e:3::2a0
+2a01:111:f100:3000::a83e:19a0
+2a02:26f0:120::211:7b59
+2a02:26f0:120::211:7b32
 2a02:26f0:120:3a1::2c1a
 2a02:26f0:120:3b3::2c1a
-2a02:26f0:1300:2b8::2c1a
-2a02:26f0:1300:28c::2c1a
+2a02:26f0:c400:383::2c1a
+2a02:26f0:c400:38b::e59
+2a02:26f0:c400:386::2c1a
+2a02:26f0:6c00:2a4::2c1a
 2a02:26f0:6c00:2ad::2c1a
-2a02:26f0:120::211:7b59
-2603:1030:c04:3::e0
-2603:1020:2:3::99
+2a02:26f0:120::211:7919
+2a02:26f0:120::211:7913
+2a02:26f0:c400::17d6:c493
+2a02:26f0:c400::17d6:c483
+2a02:26f0:64::210:6b70
+2a02:26f0:64::210:6b08
+2a02:26f0:6c00::210:ba0b
 2603:1030:403:3::96
+2603:1030:c04:3::e0
+2001:1900:2322:1f03::1fe
 2603:1030:805:3::2a
-2a02:26f0:c400::17d6:c4b2
-2a02:26f0:c400::17d6:c4d8
-2001:1900:2322:1d02::1fe
+2a02:26f0:c400::17d6:c4c9
+2a02:26f0:c400::17d6:c4e1
+2001:1900:2331:e00::1fe
+2001:1900:23aa:f01::1fe
+2001:1900:2322:c001::1fe
 2001:1900:2322:1d03::1fe
-2001:1900:2322:8f0d::1fe
-2a02:26f0:120::211:7b32
-2001:1900:2322:1f02::1fe
+2001:1900:2322:1e00::1fe
+2001:1900:2322:8f08::1fe
+2001:1900:2322:b01b::1fe
+2001:1900:2322:b017::1fe
+2603:1020:2:3::99
+2001:1900:2322:b013::1fe
 
 # =======================================================
-# Host addresses found: 190
-# IPv4 addresses found: 91
-# IPv6 addresses found: 87
-# TimeStamp: Freitag, 11. Jun 2021 @ 04:42:49 
+# Host addresses found: 224
+# IPv4 addresses found: 139
+# IPv6 addresses found: 100
+# TimeStamp: Freitag, 11. Jun 2021 @ 04:57:39 
 # =======================================================
 
