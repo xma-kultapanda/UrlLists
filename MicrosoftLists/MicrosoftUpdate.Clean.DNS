@@ -1,39 +1,7 @@
-# =======================================================
-# PowerShell Core 2021.5.1
-# TimeStamp: Freitag, 11. Jun 2021 @ 02:00:24 
-# Processed URIs:
-#   - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
-#   - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all.easylist
-#   - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
-#   - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update_v6.txt
-# Processed Domain Matches:
-#   - (?i)^download\.microsoft\.com$
-#   - (?i)^download\.windowsupdate\.com$
-#   - (?i)^ntservicepack\.microsoft\.com$
-#   - (?i)^windowsupdate\.microsoft\.com$
-#   - (?i)^wustat\.windows\.com$
-#   - (?i)^.+\.download\.windowsupdate\.com$
-#   - (?i)^.+\.update\.microsoft\.com$
-#   - (?i)^.+\.windowsupdate\.com$
-#   - (?i)^.+\.windowsupdate\.microsoft\.com$
-#   - (?i)^.+\.ws\.microsoft\.com$
-# =======================================================
-
-# List: https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
-#  - Host entries: 2
-
 download.microsoft.com
 windowsupdate.microsoft.com
-
-# List: https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all.easylist
-#  - Host entries: 2
-
 download.microsoft.com
 windowsupdate.microsoft.com
-
-# List: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
-#  - Host entries: 188
-
 00001b-1.l.windowsupdate.com
 000043-1.l.windowsupdate.com
 000061-1.l.windowsupdate.com
@@ -222,10 +190,6 @@ statsfe2.ws.microsoft.com
 v4.download.windowsupdate.com
 windowsupdate.microsoft.com
 www.download.windowsupdate.com
-
-# List: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update_v6.txt
-#  - Host entries: 188
-
 00001b-1.l.windowsupdate.com
 000043-1.l.windowsupdate.com
 000061-1.l.windowsupdate.com
@@ -414,8 +378,3 @@ statsfe2.ws.microsoft.com
 v4.download.windowsupdate.com
 windowsupdate.microsoft.com
 www.download.windowsupdate.com
-
-# =======================================================
-# TimeStamp: Freitag, 11. Jun 2021 @ 02:00:25 
-# =======================================================
-

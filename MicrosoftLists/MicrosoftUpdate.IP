@@ -1,6 +1,6 @@
 # =======================================================
 # PowerShell Core 2021.5.1
-# TimeStamp: Freitag, 11. Jun 2021 @ 01:53:35 
+# TimeStamp: Freitag, 11. Jun 2021 @ 02:00:27 
 # Processed URIs:
 #   - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
 #   - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all.easylist
@@ -204,46 +204,52 @@
 2a02:26f0:6c00::210:ba51
 2a02:26f0:6c00::210:ba38
 # Resolving domain: au.v4.download.windowsupdate.com
-8.253.207.121
-8.248.133.254
-8.248.131.254
-8.248.149.254
-8.248.147.254
-2001:1900:2322:8f0d::1fe
-2001:1900:2322:1f02::1fe
+67.26.73.254
+67.26.83.254
+8.253.95.121
+8.248.137.254
+8.253.204.120
+2001:1900:2322:8f08::1fe
+2001:1900:233a:f00::1fe
+2001:1900:2322:8f07::1fe
 2001:1900:2339:f00::1fe
-2001:1900:2322:1e02::1fe
-2001:1900:2322:1f03::1fe
+2001:1900:2322:8f02::1fe
 # Resolving domain: bg.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg.v4.emdl.ws.microsoft.com
-2.16.186.99
 2.16.186.73
+2.16.186.99
 # Resolving domain: bg1.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg1.v4.emdl.ws.microsoft.com
-2.16.186.99
 2.16.186.73
+2.16.186.99
 # Resolving domain: bg2.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg2.v4.emdl.ws.microsoft.com
-2.16.186.99
 2.16.186.73
+2.16.186.99
 # Resolving domain: bg3.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg3.v4.emdl.ws.microsoft.com
-2.16.186.99
 2.16.186.73
+2.16.186.99
 # Resolving domain: bg4.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg4.v4.emdl.ws.microsoft.com
-2.16.186.99
 2.16.186.73
+2.16.186.99
 # Resolving domain: bg5.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg5.v4.emdl.ws.microsoft.com
-2.16.186.99
 2.16.186.73
+2.16.186.99
 # Resolving domain: ctldl.windowsupdate.com
 2.16.186.25
 2.16.186.33
@@ -254,9 +260,10 @@
 2a02:26f0:6c00:2a9::e59
 2a02:26f0:6c00:289::e59
 # Resolving domain: download.windowsupdate.com
-205.185.216.42
-205.185.216.10
-2001:4de0:ac10::1:1:19
+23.32.238.201
+23.32.238.178
+2a02:26f0:64::210:6a6b
+2a02:26f0:64::210:6a68
 # Resolving domain: ds.download.windowsupdate.com
 2.16.107.50
 2.16.107.82
@@ -266,34 +273,40 @@
 2.16.186.73
 2.16.186.99
 # Resolving domain: fe2.update.microsoft.com
+20.62.190.184
 52.249.36.200
-20.83.81.160
-52.238.248.1
-2603:1030:403:3::60
+13.91.16.64
 2a01:111:f100:3000::a83e:19a0
-2603:1030:20e:3::2a0
+2603:1030:805:3::40
+2603:1030:c04:3::111
 # Resolving domain: fe2.ws.microsoft.com
-40.86.163.64
+52.148.165.156
 # Resolving domain: fe2cr.update.microsoft.com
-52.242.231.35
+13.91.16.64
+20.62.190.184
+52.249.36.200
+2603:1030:c04:3::111
+2a01:111:f100:3000::a83e:19a0
+2603:1030:805:3::40
 # Resolving domain: fg.ds.b1.download.windowsupdate.com
 2.16.107.50
 2.16.107.82
 2a02:26f0:6c00::210:ba19
 2a02:26f0:6c00::210:ba21
 # Resolving domain: fg.v4.download.windowsupdate.com
-205.185.216.10
-205.185.216.42
-2001:4de0:ac10::1:1:19
+23.32.238.201
+23.32.238.178
+2a02:26f0:64::210:6a6b
+2a02:26f0:64::210:6a68
 # Resolving domain: sls.update.microsoft.com
-52.152.110.14
+40.125.122.176
 2603:1030:c04:3::e0
 # Resolving domain: slscr.update.microsoft.com
-52.152.110.14
+40.125.122.176
 2603:1030:c04:3::e0
 # Resolving domain: statsfe1.ws.microsoft.com
-51.143.49.66
 52.167.254.228
+51.143.49.66
 # Resolving domain: statsfe2.update.microsoft.com
 51.143.49.66
 52.167.254.228
@@ -301,15 +314,17 @@
 51.143.49.66
 52.167.254.228
 # Resolving domain: v4.download.windowsupdate.com
-205.185.216.10
-205.185.216.42
-2001:4de0:ac10::1:1:19
+23.32.238.201
+23.32.238.178
+2a02:26f0:64::210:6a6b
+2a02:26f0:64::210:6a68
 # Resolving domain: windowsupdate.microsoft.com
 52.185.71.28
 # Resolving domain: www.download.windowsupdate.com
-205.185.216.10
-205.185.216.42
-2001:4de0:ac10::1:1:19
+23.32.238.201
+23.32.238.178
+2a02:26f0:64::210:6a6b
+2a02:26f0:64::210:6a68
 
 # List: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update_v6.txt
 #  - Host entries: 188
@@ -476,43 +491,49 @@
 2a02:26f0:6c00::210:ba51
 2a02:26f0:6c00::210:ba38
 # Resolving domain: au.v4.download.windowsupdate.com
-8.248.131.254
-8.248.149.254
-8.248.147.254
-8.253.207.121
-8.248.133.254
+8.253.95.121
+8.248.137.254
+8.253.204.120
+67.26.73.254
+67.26.83.254
+2001:1900:2322:8f07::1fe
 2001:1900:2339:f00::1fe
-2001:1900:2322:1e02::1fe
-2001:1900:2322:1f03::1fe
-2001:1900:2322:8f0d::1fe
-2001:1900:2322:1f02::1fe
+2001:1900:2322:8f02::1fe
+2001:1900:2322:8f08::1fe
+2001:1900:233a:f00::1fe
 # Resolving domain: bg.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg.v4.emdl.ws.microsoft.com
 2.16.186.73
 2.16.186.99
 # Resolving domain: bg1.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg1.v4.emdl.ws.microsoft.com
 2.16.186.73
 2.16.186.99
 # Resolving domain: bg2.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg2.v4.emdl.ws.microsoft.com
 2.16.186.73
 2.16.186.99
 # Resolving domain: bg3.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg3.v4.emdl.ws.microsoft.com
 2.16.186.73
 2.16.186.99
 # Resolving domain: bg4.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg4.v4.emdl.ws.microsoft.com
 2.16.186.73
 2.16.186.99
 # Resolving domain: bg5.v4.a.dl.ws.microsoft.com
 198.78.212.126
+4.27.28.126
 # Resolving domain: bg5.v4.emdl.ws.microsoft.com
 2.16.186.73
 2.16.186.99
@@ -526,9 +547,10 @@
 2a02:26f0:6c00:2a9::e59
 2a02:26f0:6c00:289::e59
 # Resolving domain: download.windowsupdate.com
-205.185.216.10
-205.185.216.42
-2001:4de0:ac10::1:1:19
+23.32.238.201
+23.32.238.178
+2a02:26f0:64::210:6a6b
+2a02:26f0:64::210:6a68
 # Resolving domain: ds.download.windowsupdate.com
 2.16.107.50
 2.16.107.82
@@ -538,34 +560,40 @@
 2.16.186.73
 2.16.186.99
 # Resolving domain: fe2.update.microsoft.com
-52.238.248.1
 52.249.36.200
-20.83.81.160
-2603:1030:20e:3::2a0
-2603:1030:403:3::60
+13.91.16.64
+20.62.190.184
+2603:1030:805:3::40
+2603:1030:c04:3::111
 2a01:111:f100:3000::a83e:19a0
 # Resolving domain: fe2.ws.microsoft.com
-40.86.163.64
+52.148.165.156
 # Resolving domain: fe2cr.update.microsoft.com
-52.242.231.35
+20.62.190.184
+52.249.36.200
+13.91.16.64
+2a01:111:f100:3000::a83e:19a0
+2603:1030:805:3::40
+2603:1030:c04:3::111
 # Resolving domain: fg.ds.b1.download.windowsupdate.com
 2.16.107.50
 2.16.107.82
 2a02:26f0:6c00::210:ba19
 2a02:26f0:6c00::210:ba21
 # Resolving domain: fg.v4.download.windowsupdate.com
-205.185.216.10
-205.185.216.42
-2001:4de0:ac10::1:1:19
+23.32.238.201
+23.32.238.178
+2a02:26f0:64::210:6a6b
+2a02:26f0:64::210:6a68
 # Resolving domain: sls.update.microsoft.com
-52.152.110.14
+40.125.122.176
 2603:1030:c04:3::e0
 # Resolving domain: slscr.update.microsoft.com
-52.152.110.14
+40.125.122.176
 2603:1030:c04:3::e0
 # Resolving domain: statsfe1.ws.microsoft.com
-51.143.49.66
 52.167.254.228
+51.143.49.66
 # Resolving domain: statsfe2.update.microsoft.com
 51.143.49.66
 52.167.254.228
@@ -573,17 +601,19 @@
 51.143.49.66
 52.167.254.228
 # Resolving domain: v4.download.windowsupdate.com
-205.185.216.10
-205.185.216.42
-2001:4de0:ac10::1:1:19
+23.32.238.201
+23.32.238.178
+2a02:26f0:64::210:6a6b
+2a02:26f0:64::210:6a68
 # Resolving domain: windowsupdate.microsoft.com
 52.185.71.28
 # Resolving domain: www.download.windowsupdate.com
-205.185.216.10
-205.185.216.42
-2001:4de0:ac10::1:1:19
+23.32.238.201
+23.32.238.178
+2a02:26f0:64::210:6a6b
+2a02:26f0:64::210:6a68
 
 # =======================================================
-# TimeStamp: Freitag, 11. Jun 2021 @ 01:53:52 
+# TimeStamp: Freitag, 11. Jun 2021 @ 02:00:30 
 # =======================================================
 
