@@ -1,0 +1,959 @@
+# =======================================================
+# PowerShell Core 2021.5.1
+# TimeStamp: Freitag, 11. Jun 2021 @ 04:23:43 
+# Processed URIs:
+#   - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
+#   - https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all.easylist
+#   - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
+#   - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update_v6.txt
+# Processed Domain Matches:
+#   - (?i)^download\.microsoft\.com$
+#   - (?i)^download\.windowsupdate\.com$
+#   - (?i)^ntservicepack\.microsoft\.com$
+#   - (?i)^windowsupdate\.microsoft\.com$
+#   - (?i)^wustat\.windows\.com$
+#   - (?i)^.+\.download\.windowsupdate\.com$
+#   - (?i)^.+\.update\.microsoft\.com$
+#   - (?i)^.+\.windowsupdate\.com$
+#   - (?i)^.+\.windowsupdate\.microsoft\.com$
+#   - (?i)^.+\.ws\.microsoft\.com$
+# =======================================================
+
+# List: https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
+#  - Matches: 2
+
+# List: https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all.easylist
+#  - Matches: 2
+
+# List: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
+#  - Matches: 188
+
+# List: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update_v6.txt
+#  - Matches: 188
+
+# Resolving domain: 00001b-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000043-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000061-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0000a3-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0000f2-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0000f9-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0000fe-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00015e-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0001a5-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0001bc-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0001d4-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0001ed-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000202-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000238-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000263-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00028e-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00028f-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0002ae-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0002c3-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0002fd-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000371-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000396-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0003fc-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000410-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000418-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000452-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000464-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000498-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0004ad-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0004ee-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0004f1-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000502-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00054d-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000589-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000646-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0006df-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0007be-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0007e4-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00081a-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0008f7-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000968-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000989-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0009a5-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0009b8-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0009fe-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000a55-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000a56-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000a60-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000afa-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000b25-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000b3d-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000b62-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000b78-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000bc0-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000bcf-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000bdf-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000be0-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000c0c-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000c19-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000c27-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000c33-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000cb0-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000cca-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000d29-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000d40-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000d6d-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000e78-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000efd-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 000f40-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001007-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001056-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001089-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0010bb-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0010da-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0010e3-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00111c-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001173-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0011da-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0011f3-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001233-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00123a-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001390-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001402-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00149f-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0016c3-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0017b1-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0017c5-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0017f1-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00184b-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00185d-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001891-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0018c4-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001949-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00196e-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00198e-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0019a2-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0019d8-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001a1f-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001a27-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001a32-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001a43-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001a83-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001a92-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001bb5-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001c02-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001cdc-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001d09-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001d1f-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001d49-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001d7a-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001dc2-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001e03-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001e05-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001e0c-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001e0f-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001e27-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001e4b-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001e8d-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001e9c-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001ec3-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001f23-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001f4f-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001f7f-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 001fbb-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 002012-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 002062-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0020a7-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 002108-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00210c-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00210e-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 002182-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0021a0-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0021d0-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0021ff-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00227f-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0022a7-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0022c1-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0022db-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0022e6-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0022eb-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00235c-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 002384-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00238e-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 002394-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0023c5-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0023df-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00249b-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 002518-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 002557-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 002562-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0025be-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0025ea-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0025f2-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 00268c-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0026a1-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: 0026bc-1.l.windowsupdate.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: au.download.windowsupdate.com
+#  - IPv4 addresses: 10
+#  - IPv6 addresses: 7
+
+# Resolving domain: au.v4.download.windowsupdate.com
+#  - IPv4 addresses: 10
+#  - IPv6 addresses: 20
+
+# Resolving domain: bg.v4.a.dl.ws.microsoft.com
+#  - IPv4 addresses: 3
+#  - IPv6 addresses: 2
+
+# Resolving domain: bg.v4.emdl.ws.microsoft.com
+#  - IPv4 addresses: 6
+#  - IPv6 addresses: 0
+
+# Resolving domain: bg1.v4.a.dl.ws.microsoft.com
+#  - IPv4 addresses: 7
+#  - IPv6 addresses: 4
+
+# Resolving domain: bg1.v4.emdl.ws.microsoft.com
+#  - IPv4 addresses: 6
+#  - IPv6 addresses: 0
+
+# Resolving domain: bg2.v4.a.dl.ws.microsoft.com
+#  - IPv4 addresses: 5
+#  - IPv6 addresses: 4
+
+# Resolving domain: bg2.v4.emdl.ws.microsoft.com
+#  - IPv4 addresses: 6
+#  - IPv6 addresses: 0
+
+# Resolving domain: bg3.v4.a.dl.ws.microsoft.com
+#  - IPv4 addresses: 4
+#  - IPv6 addresses: 2
+
+# Resolving domain: bg3.v4.emdl.ws.microsoft.com
+#  - IPv4 addresses: 8
+#  - IPv6 addresses: 0
+
+# Resolving domain: bg4.v4.a.dl.ws.microsoft.com
+#  - IPv4 addresses: 5
+#  - IPv6 addresses: 2
+
+# Resolving domain: bg4.v4.emdl.ws.microsoft.com
+#  - IPv4 addresses: 8
+#  - IPv6 addresses: 0
+
+# Resolving domain: bg5.v4.a.dl.ws.microsoft.com
+#  - IPv4 addresses: 4
+#  - IPv6 addresses: 4
+
+# Resolving domain: bg5.v4.emdl.ws.microsoft.com
+#  - IPv4 addresses: 8
+#  - IPv6 addresses: 0
+
+# Resolving domain: ctldl.windowsupdate.com
+#  - IPv4 addresses: 10
+#  - IPv6 addresses: 13
+
+# Resolving domain: download.microsoft.com
+#  - IPv4 addresses: 3
+#  - IPv6 addresses: 6
+
+# Resolving domain: download.windowsupdate.com
+#  - IPv4 addresses: 10
+#  - IPv6 addresses: 14
+
+# Resolving domain: ds.download.windowsupdate.com
+#  - IPv4 addresses: 9
+#  - IPv6 addresses: 6
+
+# Resolving domain: emdl.ws.microsoft.com
+#  - IPv4 addresses: 8
+#  - IPv6 addresses: 0
+
+# Resolving domain: fe2.update.microsoft.com
+#  - IPv4 addresses: 6
+#  - IPv6 addresses: 6
+
+# Resolving domain: fe2.ws.microsoft.com
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 0
+
+# Resolving domain: fe2cr.update.microsoft.com
+#  - IPv4 addresses: 7
+#  - IPv6 addresses: 3
+
+# Resolving domain: fg.ds.b1.download.windowsupdate.com
+#  - IPv4 addresses: 9
+#  - IPv6 addresses: 7
+
+# Resolving domain: fg.v4.download.windowsupdate.com
+#  - IPv4 addresses: 4
+#  - IPv6 addresses: 4
+
+# Resolving domain: sls.update.microsoft.com
+#  - IPv4 addresses: 3
+#  - IPv6 addresses: 3
+
+# Resolving domain: slscr.update.microsoft.com
+#  - IPv4 addresses: 3
+#  - IPv6 addresses: 2
+
+# Resolving domain: statsfe1.ws.microsoft.com
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 0
+
+# Resolving domain: statsfe2.update.microsoft.com
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 0
+
+# Resolving domain: statsfe2.ws.microsoft.com
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 0
+
+# Resolving domain: v4.download.windowsupdate.com
+#  - IPv4 addresses: 13
+#  - IPv6 addresses: 13
+
+# Resolving domain: windowsupdate.microsoft.com
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 0
+
+# Resolving domain: www.download.windowsupdate.com
+#  - IPv4 addresses: 10
+#  - IPv6 addresses: 11
+
+# Resolved IPv4 addresses
+8.248.117.254
+8.253.204.249
+8.248.141.254
+8.248.145.254
+8.248.149.254
+23.214.196.178
+23.214.196.216
+93.184.221.240
+2.16.186.33
+2.16.186.25
+8.248.113.254
+8.253.95.121
+67.26.137.254
+8.253.204.121
+8.248.147.254
+13.107.4.50
+8.253.95.249
+8.248.139.254
+8.248.119.254
+67.26.73.254
+117.18.232.240
+4.27.28.126
+2.17.120.26
+2.17.120.128
+23.214.196.74
+23.214.196.96
+2.16.186.59
+2.16.186.73
+2.17.123.208
+2.17.123.67
+23.48.23.28
+23.48.23.37
+2.16.107.89
+2.16.107.96
+2.16.186.8
+2.16.186.27
+8.248.115.254
+8.253.207.121
+67.26.75.254
+198.78.212.126
+8.254.226.125
+2.22.89.129
+52.238.248.1
+2.18.233.19
+8.248.137.254
+67.26.83.254
+23.55.161.162
+23.55.161.142
+205.185.216.42
+205.185.216.10
+2.17.123.50
+2.17.123.89
+23.48.23.7
+23.48.23.21
+23.32.238.161
+23.32.238.153
+2.16.107.50
+2.16.107.82
+20.83.81.160
+13.91.16.64
+52.249.36.200
+8.248.133.254
+23.209.69.176
+20.62.190.184
+40.86.163.64
+52.148.165.156
+52.242.231.35
+52.142.21.140
+40.70.224.145
+152.199.19.161
+40.125.122.176
+52.152.110.14
+52.242.101.226
+20.54.89.106
+51.143.49.66
+52.167.254.228
+8.248.131.254
+67.27.157.254
+52.137.90.34
+52.185.71.28
+67.26.81.254
+52.254.114.64
+67.27.157.126
+
+# Resolved IPv6 addresses
+2606:2800:133:672:1e5f:2264:1854:1189
+2001:1900:2322:8f02::1fe
+2a01:111:2003::50
+2a02:26f0:1300::5f64:9f12
+2a02:26f0:1300::5f64:9f29
+2606:2800:147:120f:30c:1ba0:fc6:3000
+2a02:26f0:6c00::210:ba51
+2a02:26f0:6c00::210:ba38
+2001:1900:2322:c017::1fe
+2001:1900:2322:1c04::1fe
+2001:1900:2322:b005::1fe
+2001:1900:2322:1a04::1fe
+2001:1900:2322:8f08::1fe
+2001:1900:23cc:1::1fe
+2001:1900:23c4:4::1fe
+2001:1900:23cb:3::1fe
+2001:1900:23cc:3::1fe
+2001:1900:2322:1d02::1fe
+2001:1900:23af:5::1fe
+2001:1900:2322:c003::1fe
+2001:1900:233a:e00::1fe
+2001:1900:2322:c011::1fe
+2001:1900:2322:8f06::1fe
+2001:1900:2322:1e00::1fe
+2001:1900:2322:1f03::1fe
+2001:1900:2322:8f07::1fe
+2a02:26f0:6c00::210:ba1b
+2a02:26f0:6c00::210:ba0a
+2001:1900:2322:b00d::1fe
+2a02:26f0:120::211:7919
+2a02:26f0:c400::17d6:c48a
+2a02:26f0:c400::17d6:c470
+2001:1900:2338:f00::1fe
+2001:1900:2322:8f0c::1fe
+2001:1900:2322:8f01::1fe
+2001:1900:2322:8f0b::1fe
+2001:1900:2322:8f03::1fe
+2a02:26f0:120::211:7908
+2001:1900:2322:8f0d::1fe
+2001:1900:2322:1f02::1fe
+2a02:26f0:120:391::e59
+2a02:26f0:1300:2bb::e59
+2a02:26f0:1300:2ae::e59
+2a02:26f0:6c00:2a9::e59
+2a02:26f0:6c00:289::e59
+2001:4de0:ac10::1:1:19
+2a02:26f0:c400::17d6:c4b2
+2a02:26f0:c400::17d6:c4d8
+2001:1900:233a:f00::1fe
+2001:1900:2338:e00::1fe
+2001:1900:2322:8f05::1fe
+2001:1900:2322:8f09::1fe
+2a02:26f0:120::211:792b
+2a02:26f0:120::211:7932
+2a02:26f0:c400::17d6:c47b
+2a02:26f0:c400::17d6:c490
+2a02:26f0:6c00::210:ba19
+2a02:26f0:6c00::210:ba21
+2a02:26f0:120:3af::e59
+2603:1030:c04:3::111
+2a01:111:f100:3000::a83e:19a0
+2603:1030:403:3::96
+2603:1030:403:3::60
+2603:1030:20e:3::2a0
+2603:1030:805:3::40
+2a02:26f0:120::211:7931
+2603:1020:2:3::99
+2603:1030:805:3::2a
+2603:1030:c04:3::e0
+2001:1900:2322:1e02::1fe
+2603:1030:b:3::b0
+2001:1900:2322:8f0a::1fe
+2001:1900:2322:1e03::1fe
+2001:1900:2367:16::1fe
+2001:1900:2360:1006::1fe
+2001:1900:2364:8::1fe
+2001:1900:2367:14::1fe
+2001:1900:2360:1007::1fe
+2001:1900:2339:f00::1fe
+2001:1900:2322:1b04::1fe
+
+# =======================================================
+# Host addresses found: 188
+# IPv4 addresses found: 83
+# IPv6 addresses found: 80
+# TimeStamp: Freitag, 11. Jun 2021 @ 04:25:08 
+# =======================================================
+
