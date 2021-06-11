@@ -1,6 +1,6 @@
 # =======================================================
 # PowerShell Core 2021.5.1
-# TimeStamp: Freitag, 11. Jun 2021 @ 03:26:58 
+# TimeStamp: Freitag, 11. Jun 2021 @ 04:01:29 
 # Processed URIs:
 #   - https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/DNS/Resolver.Clean.DNS
 # Processed Domain Matches:
@@ -11,55 +11,75 @@
 #  - Matches: 9
 
 # Resolving domain: 1dot1dot1dot1.cloudflare-dns.com
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 2
+
+# Resolving domain: 1dot1dot1dot2.cloudflare-dns.com
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 2
+
+# Resolving domain: 1dot1dot1dot3.cloudflare-dns.com
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 2
+
+# Resolving domain: dns.google
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 2
+
+# Resolving domain: dns.quad9.net
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 2
+
+# Resolving domain: dns10.quad9.net
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 2
+
+# Resolving domain: dns11.quad9.net
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 2
+
+# Resolving domain: dns9.quad9.net
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 2
+
+# Resolving domain: one.one.one.one
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 2
+
+# Resolved IPv4 addresses
 1.0.0.1
 1.1.1.1
-2606:4700:4700::1001
-2606:4700:4700::1111
-# Resolving domain: 1dot1dot1dot2.cloudflare-dns.com
-104.16.248.249
-104.16.249.249
-2606:4700::6810:f9f9
-2606:4700::6810:f8f9
-# Resolving domain: 1dot1dot1dot3.cloudflare-dns.com
 104.16.249.249
 104.16.248.249
-2606:4700::6810:f8f9
-2606:4700::6810:f9f9
-# Resolving domain: dns.google
 8.8.8.8
 8.8.4.4
-2001:4860:4860::8888
-2001:4860:4860::8844
-# Resolving domain: dns.quad9.net
+9.9.9.9
 149.112.112.112
-9.9.9.9
-2620:fe::9
-2620:fe::fe
-# Resolving domain: dns10.quad9.net
-9.9.9.10
 149.112.112.10
-2620:fe::fe:10
-2620:fe::10
-# Resolving domain: dns11.quad9.net
-149.112.112.11
+9.9.9.10
 9.9.9.11
-2620:fe::11
-2620:fe::fe:11
-# Resolving domain: dns9.quad9.net
+149.112.112.11
 149.112.112.9
-9.9.9.9
-2620:fe::9
-2620:fe::fe:9
-# Resolving domain: one.one.one.one
-1.0.0.1
-1.1.1.1
+
+# Resolved IPv6 addresses
 2606:4700:4700::1001
 2606:4700:4700::1111
+2606:4700::6810:f8f9
+2606:4700::6810:f9f9
+2001:4860:4860::8888
+2001:4860:4860::8844
+2620:fe::fe
+2620:fe::9
+2620:fe::10
+2620:fe::fe:10
+2620:fe::11
+2620:fe::fe:11
+2620:fe::fe:9
 
 # =======================================================
 # Host addresses found: 9
-# IPv4 addresses found: 18
-# IPv6 addresses found: 18
-# TimeStamp: Freitag, 11. Jun 2021 @ 03:26:58 
+# IPv4 addresses found: 13
+# IPv6 addresses found: 13
+# TimeStamp: Freitag, 11. Jun 2021 @ 04:01:32 
 # =======================================================
 
