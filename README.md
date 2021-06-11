@@ -1,2 +1,3 @@
 # UrlLists
-List of URLs to block or allow
+Lists of URLs, FQDNs and IPs to block or allow
+
