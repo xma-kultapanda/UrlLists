@@ -1,0 +1,79 @@
+# =======================================================
+# PowerShell Core 2021.5.1
+# TimeStamp: Samstag, 12. Jun 2021 @ 17:40:03 
+# Processed URIs:
+#   - https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Mail/SmartHost.Clean.DNS
+# Processed Domain Matches:
+#   - (?i)^((?:[\w\-]+\.)+\w+)$
+# =======================================================
+
+# List: https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Mail/SmartHost.Clean.DNS
+#  - Matches: 3
+
+# Resolving domain: smtp.gmail.com
+#  - IPv4 addresses: 4
+#  - IPv6 addresses: 4
+
+# Resolving domain: smtp.office.com
+#  - IPv4 addresses: 0
+#  - IPv6 addresses: 0
+
+# Resolving domain: smtp.office365.com
+#  - IPv4 addresses: 16
+#  - IPv6 addresses: 20
+
+# Resolved IPv4 addresses
+142.250.102.108
+173.194.76.109
+173.194.76.108
+173.194.79.108
+52.97.233.98
+52.98.152.242
+52.98.152.162
+40.101.136.242
+52.97.201.226
+52.97.201.242
+52.97.232.210
+52.97.201.210
+52.97.186.146
+52.97.232.194
+40.101.61.114
+40.101.124.34
+52.97.157.162
+52.97.137.226
+52.97.149.242
+52.97.151.146
+
+# Resolved IPv6 addresses
+2a00:1450:4025:402::6d
+2a00:1450:400c:c00::6d
+2a00:1450:400c:c00::6c
+2a00:1450:4013:c07::6c
+2603:1026:206:8::2
+2603:1026:206:5::2
+2603:1026:200:79::2
+2603:1026:100:14::2
+2603:1026:c0d:c03::2
+2603:1026:c0d:c06::2
+2603:1026:c0a:856::2
+2603:1026:c0b:40::2
+2603:1026:c0b:20::2
+2603:1026:c0b:10::2
+2603:1026:c0b:1d::2
+2603:1026:c0b:1c::2
+2603:1026:c0b:21::2
+2603:1026:c0b:22::2
+2603:1026:208:7e::2
+2603:1026:c03:6466::2
+2603:1026:203:8c::2
+2603:1026:208:85::2
+2603:1026:c03:286c::2
+2603:1026:c0e:20::2
+
+# =======================================================
+# Host addresses found: 3
+# IPv4 addresses found: 20
+# IPv6 addresses found: 24
+# TimeStamp: Samstag, 12. Jun 2021 @ 17:40:09 
+# =======================================================
+
