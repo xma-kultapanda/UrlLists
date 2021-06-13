@@ -1,0 +1,35 @@
+# =======================================================
+# PowerShell Core 7.1.3
+# TimeStamp: Montag, 14. Jun 2021 @ 00:33:02 
+# Processed URIs:
+#   - https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Mail/SmartHost.Clean.DNS
+# Processed Domain Matches:
+#   - (?i)^((?:[\w\-]+\.)+\w+)$
+# =======================================================
+
+# List: https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Mail/SmartHost.Clean.DNS
+#  - Matches: 1
+
+# Resolving domain: smtp.gmail.com
+#  - IPv4 addresses: 4
+#  - IPv6 addresses: 4
+
+# Resolved IPv4 addresses
+142.250.27.109
+142.250.110.109
+142.251.5.109
+108.177.119.109
+
+# Resolved IPv6 addresses
+2a00:1450:4025:401::6d
+2a00:1450:400c:c0d::6d
+2a00:1450:400c:c1b::6c
+2a00:1450:4013:c00::6c
+
+# =======================================================
+# Host addresses found: 1
+# IPv4 addresses found: 4
+# IPv6 addresses found: 4
+# TimeStamp: Montag, 14. Jun 2021 @ 00:33:03 
+# =======================================================
+
