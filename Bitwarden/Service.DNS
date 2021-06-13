@@ -1,0 +1,20 @@
+# =======================================================
+# PowerShell Core 2021.5.1
+# TimeStamp: Montag, 14. Jun 2021 @ 00:56:05 
+# Processed URIs:
+#   - https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Bitwarden/Service.Clean.DNS
+# Processed Domain Matches:
+#   - (?i)^((?:[\w\-]+\.)+\w+)$
+# =======================================================
+
+# List: https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Bitwarden/Service.Clean.DNS
+#  - Matches: 2
+
+cdn-185-199-108-133.github.com
+go.btwrdn.co
+
+# =======================================================
+# Host addresses found: 2
+# TimeStamp: Montag, 14. Jun 2021 @ 00:56:06 
+# =======================================================
+

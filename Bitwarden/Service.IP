@@ -1,0 +1,36 @@
+# =======================================================
+# PowerShell Core 2021.5.1
+# TimeStamp: Montag, 14. Jun 2021 @ 00:56:06 
+# Processed URIs:
+#   - https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Bitwarden/Service.Clean.DNS
+# Processed Domain Matches:
+#   - (?i)^((?:[\w\-]+\.)+\w+)$
+# =======================================================
+
+# List: https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Bitwarden/Service.Clean.DNS
+#  - Matches: 2
+
+# Resolving domain: cdn-185-199-108-133.github.com
+#  - IPv4 addresses: 1
+#  - IPv6 addresses: 0
+
+# Resolving domain: go.btwrdn.co
+#  - IPv4 addresses: 2
+#  - IPv6 addresses: 2
+
+# Resolved IPv4 addresses
+185.199.108.133
+172.67.130.252
+104.21.3.175
+
+# Resolved IPv6 addresses
+2606:4700:3034::6815:3af
+2606:4700:3034::ac43:82fc
+
+# =======================================================
+# Host addresses found: 2
+# IPv4 addresses found: 3
+# IPv6 addresses found: 2
+# TimeStamp: Montag, 14. Jun 2021 @ 00:56:07 
+# =======================================================
+
