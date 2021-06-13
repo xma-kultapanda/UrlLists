@@ -1,6 +1,6 @@
 # =======================================================
-# PowerShell Core 2021.5.1
-# TimeStamp: Samstag, 12. Jun 2021 @ 17:42:07 
+# PowerShell Core 7.1.3
+# TimeStamp: Montag, 14. Jun 2021 @ 00:27:11 
 # Processed URIs:
 #   - https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Mail/SmartHost.Clean.DNS
 # Processed Domain Matches:
@@ -8,71 +8,35 @@
 # =======================================================
 
 # List: https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Mail/SmartHost.Clean.DNS
-#  - Matches: 3
+#  - Matches: 2
 
 # Resolving domain: smtp.gmail.com
-#  - IPv4 addresses: 3
-#  - IPv6 addresses: 4
+#  - IPv4 addresses: 5
+#  - IPv6 addresses: 5
 
-# Resolving domain: smtp.office.com
-#  - IPv4 addresses: 0
+# Resolving domain: wr-in-f109.1e100.net
+#  - IPv4 addresses: 1
 #  - IPv6 addresses: 0
 
-# Resolving domain: smtp.office365.com
-#  - IPv4 addresses: 16
-#  - IPv6 addresses: 20
-
 # Resolved IPv4 addresses
-142.250.102.108
-173.194.76.109
-74.125.143.109
-52.97.233.66
-52.98.152.178
-52.97.233.50
-40.101.137.18
-52.97.186.146
-52.97.201.226
-52.97.201.210
-52.97.186.114
-52.97.232.194
-52.97.232.210
-52.97.137.242
-52.97.137.178
-52.97.171.194
-40.101.60.18
-52.98.199.194
-52.97.223.66
+142.250.27.109
+142.250.110.108
+64.233.167.108
+108.177.119.108
+142.251.5.109
+108.177.15.109
 
 # Resolved IPv6 addresses
-2a00:1450:4025:402::6d
-2a00:1450:400c:c00::6d
-2a00:1450:4013:c07::6c
-2a00:1450:400c:c00::6c
-2603:1026:100:18::2
-2603:1026:c0d:807::2
-2603:1026:100::2
-2603:1026:c0d:802::2
-2603:1026:207:14::2
-2603:1026:206:8::2
-2603:1026:207:18b::2
-2603:1026:c0b:40::2
-2603:1026:c0b:1c::2
-2603:1026:c0b:21::2
-2603:1026:c0b:10::2
-2603:1026:c0b:20::2
-2603:1026:c0b:1d::2
-2603:1026:208:7e::2
-2603:1026:c03:6467::2
-2603:1026:c03:6469::2
-2603:1026:100:14::2
-2603:1026:c0d:c06::2
-2603:1026:c0d:c03::2
-2603:1026:c0a:8b5::2
+2a00:1450:4025:401::6d
+2a00:1450:400c:c0d::6d
+2a00:1450:400c:c1b::6d
+2a00:1450:4013:c02::6c
+2a00:1450:400c:c1b::6c
 
 # =======================================================
-# Host addresses found: 3
-# IPv4 addresses found: 19
-# IPv6 addresses found: 24
-# TimeStamp: Samstag, 12. Jun 2021 @ 17:42:12 
+# Host addresses found: 2
+# IPv4 addresses found: 6
+# IPv6 addresses found: 5
+# TimeStamp: Montag, 14. Jun 2021 @ 00:27:12 
 # =======================================================
 
