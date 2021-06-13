@@ -1,0 +1,21 @@
+# =======================================================
+# PowerShell Core 2021.5.1
+# TimeStamp: Montag, 14. Jun 2021 @ 01:18:26 
+# Processed URIs:
+#   - https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Docker/All.Clean.DNS
+# Processed Domain Matches:
+#   - (?i)^((?:[\w\-]+\.)+\w+)$
+# =======================================================
+
+# List: https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/Docker/All.Clean.DNS
+#  - Matches: 3
+
+docker.io
+download.docker.com
+registry-1.docker.io
+
+# =======================================================
+# Host addresses found: 3
+# TimeStamp: Montag, 14. Jun 2021 @ 01:18:26 
+# =======================================================
+
