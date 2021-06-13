@@ -1,0 +1,20 @@
+# =======================================================
+# PowerShell Core 2021.5.1
+# TimeStamp: Montag, 14. Jun 2021 @ 01:06:36 
+# Processed URIs:
+#   - https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/GitHub/Default.Clean.DNS
+# Processed Domain Matches:
+#   - (?i)^((?:[\w\-]+\.)+\w+)$
+# =======================================================
+
+# List: https://raw.githubusercontent.com/xma-kultapanda/UrlLists/main/GitHub/Default.Clean.DNS
+#  - Matches: 2
+
+github.com
+raw.githubusercontent.com
+
+# =======================================================
+# Host addresses found: 2
+# TimeStamp: Montag, 14. Jun 2021 @ 01:06:37 
+# =======================================================
+
