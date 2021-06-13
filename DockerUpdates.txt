@@ -1,2 +1,0 @@
-# Docker and Docker-Compose Update URL
-download.docker.com
